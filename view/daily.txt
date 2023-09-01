@@ -1,0 +1,302 @@
+======16-08-2023======
+=> Final Validation Completed
+=> Add Some Changes
+=> Project Completed
+------ Laravel Training ------
+=> Laravel and MVC
+=> Install needed Tools
+=> Laravel Installation
+=> Folder Structure
+
+
+======15-08-2023======
+=> Working On Final Validation
+=> Project Completed
+
+======14-08-2023======
+=> Showing Error Message on update Profile
+=> Showing Error Message on Change Password
+=> Showing Error on Payment
+=> View Enrolled Student Progress
+=> Comment can be deleted
+=> Search Box Error Fixed 
+=> Final Validation of Every Page
+
+
+
+
+======12-08-2023======
+=> Add Search by Student
+=> Search by Teacher
+=> Course Edit with and without Image
+=> Upload Receipt when Course Payment
+=> Final Validation Updating
+
+
+======11-08-2023======
+=> Change Password
+=> Request for Certificate When Course 100% Completed
+=> Add Notice
+=> Delete & View Notice
+=> Upload Certificate on request
+=> download Certificate
+=> Update Profile Without Blank Fields
+
+
+
+
+======10-08-2023======
+=> Validate Payment Detail
+=> Store Payment
+=> Payment Validation
+=> View Payment
+=> Approve And Reject Payment
+=> Student can Start Course
+=> Added Course Progress Bar
+
+
+======28-07-2023======
+
+--- School Portal (oops) ---
+=> Register Form Validation
+=> Image VALIDATION
+=> Image upload into Folder
+
+
+======27-07-2023======
+
+--- School Portal (oops) ---
+=> Enroll Student into Course
+=> Delete Course
+=> Add Comment on Course
+=> view enrolled students
+=> Added View Comment
+=> Add Notice
+=> Added View Classmates 
+=> Student Comments View  
+=> Change Password FORM
+
+======26-07-2023======
+
+--- School Portal (oops) ---
+=> User Registration
+=> User login Logout
+=> User Dashboard
+=> Teacher Add & View Course 
+
+======25-07-2023======
+
+--- TASK ---
+
+=> Complete School Portal Testing
+=> All Error Fixed
+=> Added Some Changes
+=> Image Validation Correction
+=> Task Completed
+=> Started Rebuilding School Portal Using OOP'S
+
+
+======24-07-2023======
+
+--- TASK ---
+
+=> Teacher Accept & Reject Payment
+=> Student re-pay when rejected
+=> add start course
+=> student request certificate when finish course
+=> teacher upload certificate 
+=> student download certificate
+
+======21-07-2023======
+
+--- TASK ---
+
+=> teacher delete comments
+=> create a payment portal
+=> show enrolled course on student dashboard
+=> update status of student payment
+
+======20-07-2023======
+
+--- TASK ---
+
+=> Student can view courses
+=>Student comment on course
+=>teacher comment on course
+=> Validation on course
+=> delete enrolled student
+
+======19-07-2023======
+
+--- TASK ---
+
+=> View Course
+=> Enroll Courses to student
+=> Learn about One to Many & Many to Many
+=> View Enrolled Student
+
+
+======18-07-2023======
+
+--- TASK ---
+
+=> UPDATE DASHBOARD
+=> UPDATE Profile
+=> COMPLETE VALIDATION
+=> ADD COURSE
+=> INSERT,UPDATE,DELETE Course
+
+
+
+-	
+
+======29-06-2023======
+
+=> Solving array questions ( 1 hour 45min )
+=> Learning About Superglobals in php (6 Hour )
+=>php superglobal
+=>GLOBALS
+=>SERVER
+=>REQUEST
+=>POST
+=>GET
+=>ENV
+=>COOKIES
+=>SESSION
+=> Learning about RegEx (PHP Regular Expression )  (1 hour )
+
+	======30-06-2023======
+
+PHP REGEX
+PHP REGEX FUNCTION
+FORM VALIDATION USING REGEX
+STRING VALIDATION
+EMAIL VALIDATION
+HTML FORM VALIDATION
+
+======01-07-2023======
+
+=>PHP REGEX EMAIL VALIDATION
+=>FORM HANDLING,VALIDATION,REQUIRED
+=>FORM URL/EMAIL
+=>PHP FORM COMPLETE
+=>PHP DATE and TIME
+
+
+======03-07-2023======
+
+=>PHP DATE & TIME FUNCTIONS
+=>PHP INCLUDE
+=>FILE HANDLING
+=>FILE HANDLING FUNCTIONS
+
+======04-07-2023======
+
+=> file upload
+=> multiple file upload with validation
+=> php filters
+=> php filters advanced
+
+======05-07-2023======
+
+=> callback function
+=> php exception
+=> JSON
+=> PHP OOPS
+=> Class / Object
+=> Constructor / Destructor
+=> Access Modifier
+=> Inheritence
+
+======06-07-2023======
+
+=> Access Modifier
+=> Inheritence
+=>PHP Constant
+=> Abstract Class
+=>Interface
+=> Traits
+=>PHP Static Methods
+=>PHP Static Proerties
+=>PHP namespace
+=>PHP Iterables
+
+======07-07-2023======
+
+=> MYSQL DATABASE
+=> MYSQL CONNECT,CREATE DB,CREATE TABLE
+=> INSERT ,INSERT MULTIPLE,INSERT PREPARED
+=> SELECT , UPDATE , DELETE
+=> WHERE, ORDER BY , LIMIT
+
+======08-07-2023======
+
+=> SELECT , SELECT FROM , SELECT DISTINCT
+=>FILTERING TABLE DATA 
+=> TABLE & COLUMN ALIAS
+=>INNER JOIN, LEFT JOIN, RIGHT JOIN
+
+======10-07-2023======
+
+=> LEFT JOIN,RIGHT JOIN
+=> CROSS JOIN,SELF JOIN
+=> GROUP BY, HAVING,ROLLUP
+=> SUBQUERY
+
+======11-07-2023======
+
+=> SUBQUERY , DERIVED TABLE EXISTS
+=> COMMON TABLE EXPRESSION
+=> UNION AND UNION ALL
+=> INTERSECT , MINUS
+=> INSERT , INSERT MULTIPLE ROWS , INSERT IGNORE
+
+======12-07-2023======
+
+=> UPDATE , UPDATE JOIN
+=> DELETE , DELETE JOIN
+=> ON DELETE CASCADE 
+=> REPLACE , PREPARED STATEMENT
+=> TRANSACTION , TABLE LOCKING
+=> SELECT CREATE DROP DATABASE
+=> CREATE TABLE , AUTO_INCREMENT 
+
+======13-07-2023======
+
+=> ALTER TABLE , RENAME TABLES, DROP TABLE
+=> REMOVE,ADD COLUMN
+=> TEMPORARY ,TRUNCATE TABLE
+=> GENERATE COLUMN
+=> SQL DATATYPES
+
+======14-07-2023======
+
+=> JSON ENUM DATATYPES
+=> NOT NULL DEFAULT 
+=> CHECK CONSTRAINT
+=> PRIMARY UNIQUE FOREIGN KEYS
+
+======15-07-2023======
+
+--- TASK ---
+
+=> REGISTRATION,LOGIN FORM
+=> INSERT PROFILE IN DATABASE
+=> LOGIN SESSION
+=> DESTROY SESSION ON LOGOUT
+
+
+
+
+======17-07-2023======
+
+--- TASK ---
+
+=> Change Password 
+=> Update Profile 
+=> Registration Validation
+=> Update Profile Validation
+
+
+
+
